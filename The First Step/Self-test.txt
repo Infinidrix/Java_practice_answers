@@ -1,0 +1,24 @@
+1 - A program is a set of instructions a computer can understand
+  - Software is a collection of program(s) that accomplishes something
+  - Application software interact with users to help them utilize their computers
+  - System software manage the internal working of the machine and allocate resources for applications to use
+  - Machine code is code that is readable by the computer and hence its contents dependent on the hardware of the computer
+  - Source code is the entirity of the code that comprises the application 
+  - Embedded software is software that comes bundled together with the device
+  - Java byte code is the output of the compliation process by the java complier and will then be run by the java virtual machine
+  - Java virtual machine is a software that comes together with java and allows byte codes to be run on it producing similar results regardless of platform
+  - An IDE is a software suite that includes syntax highlighting, builtin complier, and other useful utilities for programmers 
+2 Once a file (.java extension) is ready for launch, we compile it. This process is done by the complier which checkes for compile time erros and, on success, generates a .class file(the byte code) this can then be run with the JVM
+3 For single line comments we use "//" (without the quotation marks) for multiline comments we can use "/*" for the beginning, "*" for every line(optional), and  "*/" for the last line 
+4 System.out.println() adds a new line at the end while System.out.print() does not. Also System.out.println() clears the buffer making sure everything is printed(Core Java Volume I)
+5 a Hello, how are you? Fine, thanks.
+  b Hello, how are you? 
+  Fine, thanks.
+  c 1 + 2 + 3 = 6
+6 - Class name not given
+  - static is capitalized
+  - System is not capitalized
+  - println argument is not a String
+  - println call doesn't end with a semicolon
+  - Class block not enclosed
+  
