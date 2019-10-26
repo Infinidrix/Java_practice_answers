@@ -1,0 +1,26 @@
+1 - int
+  - float
+  - char
+2 The first line will result in a complier error since the expression on the right is a double but the second line would not throw a compiler error
+3 - valid
+  - invalid
+  - valid
+  - valid (not preferred)
+  - invaild
+  - valid (not recommended)
+4 - no parenthesis on the print argument
+  - age is int but value is double
+  - YEAR is not initialized
+5 70
+6 result = 2
+7 - prompt the user for height and width
+  - recieve height and width
+  - area = height * width
+  - perimeter = 2 * (height + width)
+  - display area and perimeter
+8 - yes, because the value of x is lost when the assignment x = y happens
+  - x = Y
+    y = Y (for some value of X and Y)
+  - temp = x;
+    x = y;
+	y = temp;

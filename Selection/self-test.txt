@@ -1,0 +1,30 @@
+1 A sequence is executed in a linear fashion while selection executes different blocks depending on conditions
+2 - When we have additional steps whenever a condition is fulfilled
+  - When we have different steps to perform depending on a condition
+  - When we have different steps to perform depending on the value of a variable
+3 if (age < 14) price /= 2;
+4 a Red
+  b Green
+    Blue
+	Red
+  c Blue
+    Red
+  d Green 
+    Blue
+	Red
+5 a Blue
+    Red
+  b Green
+    Red
+6 a Green
+    Red
+  b Green
+	Red
+  c Blue
+    Red
+  d numbers 1-5 only
+  e Blue
+	numbers 1-5 only
+	Red
+  f
+  
